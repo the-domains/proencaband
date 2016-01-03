@@ -1,7 +1,7 @@
 name: ProençaBand
 favicon: null
-layout_spectrum: 0.7743868625257164
-typography_spectrum: 0.45070518576540053
+layout_spectrum: 0.99586
+typography_spectrum: 0.56736
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#bec8d2'
+    - '#877f72'
+    - '#0f150b'
+    - '#605845'
+    - '#8ba122'
   brandStrength: 0.8360483681317419
   lightness: 0.1633695417549461
   saturation: 0.32128368760459125
